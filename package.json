@@ -1,0 +1,17 @@
+{
+  "name": "markhor",
+  "version": "1.0.0",
+  "description": "A small functional programming library",
+  "main": "dist/index.js",
+  "repository": "https://github.com/im-mou/markhor.git",
+  "author": "Mohsin Riaz <wilddogers@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
